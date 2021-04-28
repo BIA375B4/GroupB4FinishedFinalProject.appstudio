@@ -1,0 +1,128 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#9bcbeb",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptUID.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptNum.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptGrade.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptHome.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptHomeState.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "inptCurrent.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "savesData",
+        "Elements",
+        "imgBackHome.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 800,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": "800",
+  "id": "savesData",
+  "language": "JavaScript",
+  "left": "atuo",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "auto",
+  "width": 320
+}
